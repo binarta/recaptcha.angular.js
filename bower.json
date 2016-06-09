@@ -1,0 +1,19 @@
+{
+  "name": "binarta.recaptcha.angular",
+  "main": [
+    "./src/recaptcha.js",
+    "./src/recaptcha.ajax.js",
+    "./sources.json"
+  ],
+  "dependencies": {
+    "binarta.angularx": "0.*.*",
+    "angular-recaptcha": "0.0.*"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
