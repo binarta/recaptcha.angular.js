@@ -1,5 +1,5 @@
 {
-  "default": {
+  "shop": {
     "bin.recaptcha":"bower_components/binarta.recaptcha.angular/src/recaptcha.js",
     "recaptcha.ajax":"bower_components/binarta.recaptcha.angular/src/recaptcha.ajax.js",
     "angular.recaptcha":"bower_components/angular-recaptcha/release/angular-recaptcha.min.js"
