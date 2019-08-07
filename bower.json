@@ -6,7 +6,7 @@
     "./sources.json"
   ],
   "dependencies": {
-    "binarta.config.angular": "^0.0.40",
+    "binarta.config.angular": "0.*.*",
     "angular-recaptcha": "^4.1.2"
   },
   "ignore": [
